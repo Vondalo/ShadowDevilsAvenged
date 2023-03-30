@@ -1,0 +1,18 @@
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.4;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0.2;
+    --accentcolor: 94,77,77;
+    --background: url("https://vsthemes.org/uploads/posts/2022-09/1662539532_898174812.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
